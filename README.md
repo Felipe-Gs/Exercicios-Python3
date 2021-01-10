@@ -1,2 +1,2 @@
-# Exerciccios-Python3
+# Exercicios-Python3
  Vários tipos de exercicios resolvidos...
