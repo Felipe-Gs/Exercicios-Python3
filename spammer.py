@@ -1,5 +1,5 @@
 import pyautogui, time
-time.sleep(2)
+time.sleep(10)
 
 for c in range(10):
     pyautogui.typewrite("EI......")
